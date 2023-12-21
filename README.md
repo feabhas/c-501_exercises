@@ -4,6 +4,19 @@ Exercise solutions and cmake projects for:
 
    * C-501 C for Real-Time Embedded Developers
 
+**Contents**
+- [C for Real-Time Embedded Developers Exercises](#c-for-real-time-embedded-developers-exercises)
+- [Folder structure](#folder-structure)
+  - [Solutions](#solutions)
+  - [Workspace](#workspace)
+- [Build Toolchain](#build-toolchain)
+  - [Build the application](#build-the-application)
+  - [Visual Studio shortcuts](#visual-studio-shortcuts)
+  - [Command line builds](#command-line-builds)
+  - [Building an exercise solution](#building-an-exercise-solution)
+- [Disclaimer](#disclaimer)
+
+
 
 # Folder structure
 
